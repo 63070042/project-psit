@@ -1,5 +1,5 @@
 """Percent of change"""
-from faculty as fac
+import faculty as fac
 def chance_engineering():
     """chance of engineering"""
     percent = (fac.engineering(gat, pat1, pat3)/100)*100
